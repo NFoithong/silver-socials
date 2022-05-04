@@ -34,7 +34,7 @@
   <a name="questions"></a>
   ## Questions
   You can find more of the original contributors' work at [rheam97](https://github.com/rheam97), [rdenton3](https://github.com/rdenton3), [Maryjezek](https://github.com/Maryjezek), and [NFoithong](https://github.com/NFoithong) on GitHub and contact me with any questions
-  at rheam97@gmail.com.
+  at n.foithong1983@gmail.com.
 
 
 
