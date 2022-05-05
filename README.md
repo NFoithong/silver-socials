@@ -22,6 +22,7 @@
   Clone the repo. Run 'npm i' in the root of the project.
   
   ## Technologies
+  M E R N
   MongoDB and Mongoose ODM, Express.js, React, Node.js (MERN stack), GraphQL and concurrent servers,   JWT Authentication, Sass, Tailwind CSS, Figma, Stripe, React Material UI, HeroIcon, Faker
 
   <a name="usage"></a>
