@@ -6,6 +6,7 @@
   # Table of Contents
   * [Project Description](#description)
   * [Installation](#installation)
+  * [Technologies](#technologies)
   * [Usage](#usage)
   * [Licensing](#license)
   * [Questions](#questions)
@@ -19,6 +20,9 @@
   <a name="install"></a>
   ## Installation
   Clone the repo. Run 'npm i' in the root of the project.
+  
+  ## Technologies
+  MongoDB and Mongoose ODM, Express.js, React, Node.js (MERN stack), GraphQL and concurrent servers,   JWT Authentication, Sass, Tailwind CSS, Figma, Stripe, React Material UI, HeroIcon, Faker
 
   <a name="usage"></a>
   ## Usage
